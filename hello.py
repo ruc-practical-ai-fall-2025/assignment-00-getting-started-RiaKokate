@@ -3,7 +3,7 @@
 #
 # python hello.py
 #
-# You should see the output "Hello, World!"
+# You should see the output "Hello, World!!"
 #
 
 # ***Uncomment the line below***
